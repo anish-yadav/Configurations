@@ -1,0 +1,2 @@
+# cofig
+all my configurations 
