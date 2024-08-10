@@ -1,2 +1,2 @@
-# cofig
+# cofigurations
 all my configurations 
